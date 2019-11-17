@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Fanny;Littmann;;;
+FN: Fanny  Littmann 
+ORG:Penso Moda;
+TITLE:CCO - Chief Content Officer, Penso Moda
+EMAIL;type=INTERNET;type=WORK;type=pref:fannylittmann@pensomoda.com
+TEL;type=WORK;type=VOICE:+55 994223798
+item1.ADR;type=WORK;type=pref:;;Av. São Leopoldo 105, 1004;;;93700-000;Campo Bom - RS
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:pensomoda.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
